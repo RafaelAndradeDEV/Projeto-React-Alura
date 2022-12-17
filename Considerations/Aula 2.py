@@ -1,5 +1,5 @@
 """                     Aula 2
-Quando  se coloca um input, com value no react, ele para de funcionar. Isso porque o valor ser algo que muda, mas o react não sabe reagir a isso, com isso vem a necessidade da função "onchange", mas ainda sim não há mudança
+Quando se coloca um input, com value no react, ele para de funcionar. Isso porque o valor ser algo que muda, mas o react não sabe reagir a isso, com isso vem a necessidade da função "onchange", mas ainda sim não há mudança
 Ex: 
         {/* <input 
               type="text"

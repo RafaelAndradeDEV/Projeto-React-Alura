@@ -1,5 +1,5 @@
 """                         Aula 1
-#Em geral, o React vem para nos ajudar em torno da organização do nosso código, para tal tarefa, dentro dele podemos escrever HTML e CSS juntos, dentro de um arquivo .JS
+# Em geral, o React vem para nos ajudar em torno da organização do nosso código, para tal tarefa, dentro dele podemos escrever HTML e CSS juntos, dentro de um arquivo .JS
 
 # Dentre os artifícios de organização de desenvolvimento temos: 
 - A criação de tags próprias, utilizando métodos e chamando eles através de tag com seu nome
@@ -14,7 +14,7 @@ export default function Home() {
 
 Os componentes que queremos renderizar basta chamar junto a função "export default"
 
-#  Temos que ao criar uma função e chama-lá dentro do elemento que está sendo renderizado, o que estiver dentro da tag será deixado de lado, para recebermos ela como parâmetro podemos fazer:
+# Temos que ao criar uma função e chama-lá dentro do elemento que está sendo renderizado, o que estiver dentro da tag será deixado de lado, para recebermos ela como parâmetro podemos fazer:
 
 Ex: function Titulo (){
   return(
